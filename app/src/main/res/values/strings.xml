@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RenderTest</string>
+    <string name="searchButton">Search</string>
+    <string name="searchHint">Search For Something!</string>
+</resources>
